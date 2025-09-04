@@ -1,0 +1,59 @@
+2025-09-04 18:53:08,430 : INFO : root : Loading config.
+2025-09-04 18:53:08,436 : INFO : YamlMultifileConfigLoader : Machine config file #1: config.yaml
+2025-09-04 18:53:08,436 : INFO : ConfigProcessor : Loading config from file C:\Users\Asger\mpf\Lib\site-packages\mpf\mpfconfig.yaml.
+2025-09-04 18:53:08,445 : INFO : ConfigProcessor : Loading config: C:\Users\Asger\mpf\Lib\site-packages\mpf\mpfconfig.yaml
+2025-09-04 18:53:08,446 : INFO : ConfigProcessor : Loading config from file C:\Users\Asger\Documents\happy-pinball\config\config.yaml.
+2025-09-04 18:53:08,450 : INFO : ConfigProcessor : Loading config: C:\Users\Asger\Documents\happy-pinball\config\config.yaml
+2025-09-04 18:53:08,451 : INFO : ConfigProcessor : Config file cache created: C:\Users\Asger\AppData\Local\Temp\e6ac4065a18692422c842f76ad1ad380.mpf_cache
+2025-09-04 18:53:08,489 : INFO : ConfigProcessor : Loading config from file C:\Users\Asger\mpf\Lib\site-packages\mpf\modes\attract\config\attract.yaml.
+2025-09-04 18:53:08,493 : INFO : ConfigProcessor : Loading config: C:\Users\Asger\mpf\Lib\site-packages\mpf\modes\attract\config\attract.yaml
+2025-09-04 18:53:08,493 : INFO : ConfigProcessor : Loading config from file C:\Users\Asger\Documents\happy-pinball\modes\attract\config\attract.yaml.
+2025-09-04 18:53:08,497 : INFO : ConfigProcessor : Loading config: C:\Users\Asger\Documents\happy-pinball\modes\attract\config\attract.yaml
+2025-09-04 18:53:08,497 : INFO : ConfigProcessor : Config file cache created: C:\Users\Asger\AppData\Local\Temp\035bc4fcea774b188329365dd8be176a.mpf_cache
+2025-09-04 18:53:08,498 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\0f1e122f529134e472e8da9eb4b7e50d.mpf_cache
+2025-09-04 18:53:08,500 : INFO : ConfigProcessor : Loading config from cache: C:\Users\Asger\AppData\Local\Temp\035bc4fcea774b188329365dd8be176a.mpf_cache
+2025-09-04 18:53:08,503 : INFO : ConfigProcessor : Loading config from file C:\Users\Asger\Documents\happy-pinball\modes\base\config\base.yaml.
+2025-09-04 18:53:08,506 : INFO : ConfigProcessor : Loading config: C:\Users\Asger\Documents\happy-pinball\modes\base\config\base.yaml
+2025-09-04 18:53:08,507 : INFO : ConfigProcessor : Config file cache created: C:\Users\Asger\AppData\Local\Temp\12350eb2466310dc26b31f601e9fd792.mpf_cache
+2025-09-04 18:53:08,507 : INFO : Machine : Mission Pinball Framework Core Engine v0.80.0.dev9
+2025-09-04 18:53:08,507 : INFO : Machine : Command line arguments: {'no_load_cache': False, 'create_config_cache': True, 'bcp': False, 'configfile': ['config.yaml'], 'force_assets_load': False, 'platform_integration_test': False, 'jsonlogging': False, 'logfile': 'logs\\2025-09-04-18-53-08-mpf-FONMU-C534Q2MDV.log', 'pause': False, 'production': False, 'text_ui': False, 'loglevel': 15, 'consoleloglevel': 20, 'force_platform': 'virtual', 'syslog_address': None, 'full_logfile_path': 'C:\\Users\\Asger\\Documents\\happy-pinball\\logs\\2025-09-04-18-53-08-mpf-FONMU-C534Q2MDV.log'}
+2025-09-04 18:53:08,507 : INFO : Machine : MPF path: C:\Users\Asger\mpf\Lib\site-packages\mpf
+2025-09-04 18:53:08,507 : INFO : Machine : Machine path: C:\Users\Asger\Documents\happy-pinball
+2025-09-04 18:53:08,507 : INFO : Machine : Platform: win32
+2025-09-04 18:53:08,507 : INFO : Machine : Python executable location: C:\Users\Asger\mpf\Scripts\python.exe
+2025-09-04 18:53:08,507 : INFO : Machine : Python version: 3.12.7 (64-bit)
+2025-09-04 18:53:08,508 : INFO : Machine : Initializing MPF...
+2025-09-04 18:53:08,636 : INFO : EventManager : Event: ======'machine_var_credits_string'====== Args={'value': 'FREE PLAY', 'prev_value': None, 'change': True}
+2025-09-04 18:53:08,646 : INFO : EventManager : Event: ======'machine_var_master_volume'====== Args={'value': 0.5, 'prev_value': None, 'change': True}
+2025-09-04 18:53:08,646 : INFO : EventManager : Event: ======'machine_var_mpf_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev9', 'prev_value': None, 'change': True}
+2025-09-04 18:53:08,646 : INFO : EventManager : Event: ======'machine_var_mpf_extended_version'====== Args={'value': 'Mission Pinball Framework v0.80.0.dev9, Config version:6, Show version: 6, BCP version:1.1', 'prev_value': None, 'change': True}
+2025-09-04 18:53:08,646 : INFO : EventManager : Event: ======'machine_var_python_version'====== Args={'value': '3.12.7', 'prev_value': None, 'change': True}
+2025-09-04 18:53:08,707 : INFO : EventManager : Event: ======'machine_var_platform'====== Args={'value': 'Windows-11-10.0.26100-SP0', 'prev_value': None, 'change': True}
+2025-09-04 18:53:08,707 : INFO : EventManager : Event: ======'machine_var_platform_system'====== Args={'value': 'Windows', 'prev_value': None, 'change': True}
+2025-09-04 18:53:08,707 : INFO : EventManager : Event: ======'machine_var_platform_release'====== Args={'value': '11', 'prev_value': None, 'change': True}
+2025-09-04 18:53:08,707 : INFO : EventManager : Event: ======'machine_var_platform_version'====== Args={'value': '10.0.26100', 'prev_value': None, 'change': True}
+2025-09-04 18:53:08,707 : INFO : EventManager : Event: ======'machine_var_platform_machine'====== Args={'value': 'AMD64', 'prev_value': None, 'change': True}
+2025-09-04 18:53:08,707 : INFO : EventManager : Event: ======'machine_var_log_file_path'====== Args={'value': 'C:\\Users\\Asger\\Documents\\happy-pinball\\logs\\2025-09-04-18-53-08-mpf-FONMU-C534Q2MDV.log', 'prev_value': None, 'change': True}
+2025-09-04 18:53:08,707 : INFO : EventManager : Event: ======'init_phase_1'====== Args={}
+2025-09-04 18:53:08,713 : INFO : EventManager : Event: ======'init_phase_2'====== Args={}
+2025-09-04 18:53:08,716 : INFO : EventManager : Event: ======'init_phase_3'====== Args={}
+2025-09-04 18:53:08,716 : INFO : EventManager : Event: ======'init_phase_4'====== Args={}
+2025-09-04 18:53:08,717 : INFO : EventManager : Event: ======'machine_var_audits_events_game_started'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2025-09-04 18:53:08,717 : INFO : EventManager : Event: ======'machine_var_audits_events_game_ended'====== Args={'value': 0, 'prev_value': None, 'change': True}
+2025-09-04 18:53:08,717 : INFO : EventManager : Event: ======'machine_var_audits_player_score'====== Args={'value': {'top': [], 'average': 0, 'total': 0}, 'prev_value': None, 'change': True}
+2025-09-04 18:53:08,717 : INFO : EventManager : Event: ======'init_phase_5'====== Args={}
+2025-09-04 18:53:08,717 : INFO : EventManager : Event: ======'init_done'====== Args={}
+2025-09-04 18:53:08,717 : INFO : EventManager : Event: ======'machine_reset_phase_1'====== Args={}
+2025-09-04 18:53:08,717 : INFO : EventManager : Event: ======'machine_reset_phase_2'====== Args={}
+2025-09-04 18:53:08,717 : INFO : EventManager : Event: ======'machine_reset_phase_3'====== Args={}
+2025-09-04 18:53:08,717 : INFO : EventManager : Event: ======'reset_complete'====== Args={}
+2025-09-04 18:53:08,717 : INFO : EventManager : Event: ======'mode_attract_will_start'====== Args={}
+2025-09-04 18:53:08,717 : INFO : EventManager : Event: ======'mode_attract_starting'====== Args={}
+2025-09-04 18:53:08,717 : INFO : Mode.attract : Started. Priority: 10
+2025-09-04 18:53:08,717 : INFO : EventManager : Event: ======'modes_active_modes_changed'====== Args={}
+2025-09-04 18:53:08,717 : INFO : EventManager : Event: ======'mode_attract_started'====== Args={}
+2025-09-04 18:53:08,717 : INFO : EventManager : Event: ======'collecting_balls_complete'====== Args={}
+2025-09-04 18:53:08,718 : INFO : Machine : Starting the main run loop with active modes: [<Mode.attract>]
+2025-09-04 18:53:30,019 : INFO : Machine : Shutting down...
+2025-09-04 18:53:30,019 : INFO : EventManager : Event: ======'shutdown'====== Args={}
+2025-09-04 18:53:30,019 : INFO : root : MPF run loop ended.
