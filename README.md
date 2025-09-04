@@ -1,4 +1,4 @@
 # happy-pinball
 The happiest pinball game
 
-Created by Asger Greenhil
+Created by Asger Greenhill
